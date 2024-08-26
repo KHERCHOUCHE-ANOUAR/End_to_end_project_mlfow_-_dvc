@@ -13,3 +13,4 @@ src/binary_classifier/constants/__init__.py
 src/binary_classifier/entity/__init__.py
 src/binary_classifier/pipeline/__init__.py
 src/binary_classifier/utils/__init__.py
+src/binary_classifier/utils/common.py
