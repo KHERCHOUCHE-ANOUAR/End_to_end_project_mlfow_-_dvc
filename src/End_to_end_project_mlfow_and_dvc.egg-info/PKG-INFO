@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: End_to_end_project_mlfow_and_dvc
+Version: 0.0.1
+Summary: A small python package for CNN app
+Home-page: https://github.com/KHERCHOUCHE-ANOUAR/Chest-Cancer-Classification-Project
+Author: KHERCHOUCHE-ANOUAR
+Author-email: kherchoucheanouar98@gmail.com
+Project-URL: Bug Tracker, https://github.com/KHERCHOUCHE-ANOUAR/Chest-Cancer-Classification-Project/issues
+License-File: LICENSE
+
+# End to end project usinf mlfow and dvc
